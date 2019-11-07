@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=
+comment1.target=Car()
+comment2.params=initial4WD\ initialMileage\ initialMake
+comment2.target=Car(boolean,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
