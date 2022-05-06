@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pie
+comment1.params=
+comment1.target=Pie()
+comment2.params=initCalories\ initSlices
+comment2.target=Pie(int,\ int)
+comment3.params=
+comment3.target=void\ eat()
+comment4.params=
+comment4.target=double\ caloriesPerSlice()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

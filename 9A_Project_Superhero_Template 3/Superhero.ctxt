@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Superhero
+comment1.params=initialName
+comment1.target=Superhero(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMotto()
+numComments=3

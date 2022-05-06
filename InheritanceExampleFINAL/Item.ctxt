@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=
+comment1.target=Item()
+comment2.params=initTitle\ initPubDate
+comment2.target=Item(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment4.params=
+comment4.target=int\ getPubDate()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

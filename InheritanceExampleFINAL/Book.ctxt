@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\n\ A\ book\ is\ an\ item\ that\ has\ an\ author,\ inherits\ title\ and\ publication\ \n\ date\ from\ Item\n\n
+comment1.params=
+comment1.target=Book()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Book\n
+comment2.params=title\ date\ a
+comment2.target=Book(java.lang.String,\ int,\ Author)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
