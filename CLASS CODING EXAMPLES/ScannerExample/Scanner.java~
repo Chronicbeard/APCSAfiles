@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Scanner
+{
+    public static void main(String[] args) 
+   {
+          // create a new scanner object for input.
+          Scanner in = new Scanner(System.in); 
+          // print a prompt.
+          System.out.print("Enter your name: "); 
+          // place the input "in" into a String variable. 
+          String name = new String( in.next() ); 
+          // Print out the input String variable.
+          System.out.println("Name: " + name); 
+          // Continue:
+          System.out.print("Enter your age: ");  
+          // this time it's an int.
+          int i = in.nextInt();  
+          System.out.println("Age: " + i); 
+          // now a double...
+          System.out.print("Enter your salary: ");  
+          double d = in.nextDouble();  
+          System.out.println("Salary: " + d);
+          // end the scanner.
+          in.close();           
+    } // end main
+}  // end scanner calss 

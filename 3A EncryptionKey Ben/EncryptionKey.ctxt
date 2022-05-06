@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EncryptionKey
+comment1.params=initialKey
+comment1.target=EncryptionKey(int)
+comment2.params=
+comment2.target=int\ getKey()
+comment3.params=
+comment3.target=int\ numDigits()
+numComments=4
